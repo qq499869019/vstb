@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+channel: 
+  MainUrl: http://localhost:8080/umweb/
+  pushDir: G:/PushDir_New/
+  pid: 51
+  bitRate: 1400000
+  encryptflag: false
+  zipflag: false
+  enableDebug: true
+  drivingflag: false
+  enablePriTDT: true
+  enablePriPmt: true

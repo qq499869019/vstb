@@ -1,0 +1,14 @@
+server:
+  port: 9091
+
+channel: 
+  MainUrl: http://192.168.1.103:8086/umweb/
+  pushDir: /data/szpushdata/
+  pid: 51
+  bitRate: 1400000
+  encryptflag: false
+  zipflag: false
+  enableDebug: false
+  drivingflag: false
+  enablePriTDT: false
+  enablePriPmt: false

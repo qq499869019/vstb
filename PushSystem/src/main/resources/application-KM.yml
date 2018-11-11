@@ -1,0 +1,14 @@
+server:
+  port: 9091
+
+channel: 
+  MainUrl: http://172.31.4.235:9002/umweb/
+  pushDir: /data/PushDir_New/
+  pid: 512
+  bitRate: 1000000
+  encryptflag: false
+  zipflag: false
+  enableDebug: false
+  drivingflag: false
+  enablePriTDT: true
+  enablePriPmt: true
